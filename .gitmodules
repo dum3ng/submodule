@@ -1,6 +1,6 @@
 [submodule "sub_one"]
 	path = sub_one
-	url = ./sub_one
+	url = https://mindnova@gitlab.com/mindnova/sub-one.git
 [submodule "sub_two"]
 	path = sub_two
-	url = ./sub_two/
+	url = https://mindnova@gitlab.com/mindnova/sub-two.git
