@@ -1,0 +1,6 @@
+[submodule "sub_one"]
+	path = sub_one
+	url = ./sub_one
+[submodule "sub_two"]
+	path = sub_two
+	url = ./sub_two/
